@@ -65,4 +65,4 @@ Deep Correct consistently improves colour distinguishability over uncorrected an
 
 ## Citation
 
-This work is part of an ongoing research paper, *"Deep Correct: Deep Learning Colour Correction for Colour Vision Deficiency"* (SRM Institute of Science & Technology). If you use this code or build on this work, please cite the paper once published. Citation details will be added here upon publication.
+This work is part of an ongoing research paper, *"Deep Correct: Deep Learning Colour Correction for Colour Vision Deficiency"*
